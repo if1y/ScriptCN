@@ -23,3 +23,9 @@ source <(curl -sL https://cdn.jsdelivr.net/gh/if1y/ScriptCN/multi-v2ray/v2ray.sh
 ```
 source <(curl -sL https://cdn.jsdelivr.net/gh/if1y/ScriptCN/multi-v2ray/v2ray.sh) --remove
 ```
+
+### [v2-ui](https://github.com/sprov065/v2-ui)
+
+```
+source <(curl -sL https://cdn.jsdelivr.net/gh/if1y/ScriptCN/v2-ui/install.sh)
+```
